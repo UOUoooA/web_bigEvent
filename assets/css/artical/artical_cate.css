@@ -1,0 +1,19 @@
+body,
+html{
+  padding: 0;
+  margin: 0;
+  padding: 15px;
+}
+body{
+  padding: 15px;
+  background-color: rgb(242,243,245);
+}
+.layui-card-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tanchuForm,.xiugaiForm{
+  padding-top: 20px;
+  padding-right: 30px;
+}
